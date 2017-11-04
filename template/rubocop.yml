@@ -1,0 +1,5 @@
+inherit_gem:
+  alterans-stylecheck: .rubocop.yml
+
+AllCops:
+  TargetRubyVersion: 2.4
